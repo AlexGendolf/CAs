@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+d:\projects\c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4101: z: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\Projects\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Projects\C++\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
